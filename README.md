@@ -1,0 +1,1 @@
+Model of atomin collisions for VSU university
